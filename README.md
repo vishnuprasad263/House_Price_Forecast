@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url-here.png" alt="House Price Predictor">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40laxmisingh7690%2Fhouse-price-prediction-data-science-project-guide-1-3eca38c9fea2&psig=AOvVaw3btpbbt3jEAuhuivxwI-Vd&ust=1720816096060000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiD-NLpn4cDFQAAAAAdAAAAABAE" alt="House Price Predictor">
 </p>
 House Price Predictor using Linear Regression
 Predict house prices based on location, square footage, and other features using machine learning with Linear Regression.
