@@ -18,16 +18,9 @@ Predict house prices based on location, square footage, and other features using
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/house-price-predictor.git
+    git clone https://github.com/vishnuprasad263/House_Price_Forecast
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd house-price-predictor
-    ```
-3. Install dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+
 
 ### Usage
 1. Explore the Jupyter notebook `House_Price_Prediction.ipynb` for detailed analysis and model development.
