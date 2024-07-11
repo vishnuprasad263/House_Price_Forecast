@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/28cd92fb-8194-4cf6-abbd-cc59af26b69d)<p align="center">
+<p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*cDRFtpTiOJFrfzS5.jpg" alt="House Price Predictor">
 </p>
 
@@ -35,7 +35,6 @@ Predict house prices based on location, square footage, and other features using
 3. Run the notebook to train and evaluate the model.
 
 ### Example Result
-Include a screenshot or visualization of model predictions here.
 ![image](https://github.com/user-attachments/assets/ec542b41-d7ee-465a-94c0-d7abcf4b42a3)
 ![image](https://github.com/user-attachments/assets/a4f3a96f-9333-41aa-bec0-c45ad0e63a83)
 
